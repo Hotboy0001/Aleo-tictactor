@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<< HEAD
 # Aleo-tictactor
 =======
 <!-- # ⭕ Tic-Tac-Toe -->
